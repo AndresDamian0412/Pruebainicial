@@ -22,6 +22,10 @@ public class ProyectoPruebaGithub {
         JOptionPane.showMessageDialog(null,"Hola retorno");
         JOptionPane.showMessageDialog(null,"Soy Lupe y soy medio Joto ajajajaja nosierto ");
         JOptionPane.showMessageDialog(null,"CuartoJOption");
+        
+        HolaMundo h1 = new HolaMundo();
+        h1.setVisible(true);
+        h1.setResizable(false);
     }
     
 }
