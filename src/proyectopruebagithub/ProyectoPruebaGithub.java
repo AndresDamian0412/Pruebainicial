@@ -20,6 +20,7 @@ public class ProyectoPruebaGithub {
         // TODO code application logic here
         JOptionPane.showMessageDialog(null, "Hola mundooooooo ;)");
         JOptionPane.showMessageDialog(null,"Hola retorno");
+        JOptionPane.showMessageDialog(null,"Soy Lupe y soy medio Joto ajajajaja nosierto ");
     }
     
 }
